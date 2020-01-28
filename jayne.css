@@ -1,0 +1,157 @@
+*{
+    /* outline: 1px solid red; */
+    margin: auto;
+    /* background-color: black; */
+    padding:0;
+}
+
+.container{
+    width: 900px;
+    min-height: 500px;
+
+
+}
+.Header{
+    background-color: white;
+    min-height: 50px;
+    width: 900px;
+    margin-top: 10px;
+}
+.Header h1, .Header p{
+    background-color: white;
+    display: inline-block;
+
+}
+.Header h1{
+    margin-left: 30px;
+    margin-top: 10px;
+    
+}
+
+.Header p{
+    margin-left: 350px;
+    font-size: x-large;
+    margin-bottom: 10px;
+}
+
+.feet h3{
+    width: 100%;;
+    height: 50px;
+    background-color: white;
+    font-size: small;
+    
+
+
+
+}
+
+
+
+.Top_platform{
+    background-color: rgb(73,53,61);
+    height: 100%;
+    width: 100%;
+}
+
+.bottom_platform{
+    width: 900px;
+    height: 600px;
+    background-color: rgb(73,53,61);
+    display: inline-block;
+    /* text-align: center; */
+}
+.img{
+    width: 350px;
+    margin-left: 30px;
+    border: 10px solid grey;
+    margin-top: 15px
+    
+
+    
+} 
+
+.lalala, .Family, .five{
+    width: 100%;
+    object-fit: contain;
+    display: block;
+}
+
+.about{
+    width: 430px;
+    height: 250px;
+    background-color: rgb(225, 212, 223);
+    display: inline-block;
+    margin-left: 40px;
+    margin-top: 15px
+
+}
+.about h2{
+    background-color: rgb(136,135,148);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5% ;
+    color: rgb(48,47,143)
+
+}
+.about p, .about u{
+    background-color: rgb(225, 212, 223);
+    color: rgb(48,47,143)
+}
+
+.about p{
+    padding-top: 10px;
+    margin-left: 10px;
+}
+
+.about u{
+    padding-top: 10px;
+}
+
+
+.cardHeader h2{
+    background-color: rgb(136,135,148);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: rgb(48,47,143)
+
+}
+
+
+
+.cardFooter{
+    background-color: rgb(136,135,148);
+    color:rgb(48,47,143)
+
+}
+
+
+.cardBody p{
+    color: rgb(48,47,143);
+    background-color: rgb(225, 212, 223);
+    height: 20%;
+    padding:1%;
+    height: 200px;
+    
+
+}
+
+.techimg img{
+width: 60px;
+background-color: rgb(225, 212, 223);
+/* margin-left: 5px;
+text-align: left; */
+padding: 15px;
+
+
+}
+
+
+.cardBody{
+    width: 280px;
+    height: 580px;
+    background-color: rgb(225, 212, 223);
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 20px;
+    margin-right: 5px;
+}
